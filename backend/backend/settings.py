@@ -10,8 +10,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'learning-projects.zapto.org', '89.169.164.239']
 
-###
-# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
